@@ -1,8 +1,4 @@
 <h1 align="center">Oliver Claxton</h1>
-<h3 align="center">A passionate junior fullstack developer student from Amsterdam, studdying at Codaisseur</h3>
-
-
-- 🌱 I’m currently learning **Javascript | NodeJS | ReactJS | React Native | Redux | Express API | Sequelize ORM | PostgreSQL**
 
 - 📫 How to reach me **oliver.claxton66@gmail.com**
 
